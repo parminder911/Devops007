@@ -3,8 +3,6 @@
 
 
 
-#Jenkins-DevOps-Demo 🚀
-
 #Overview
 
 This repository showcases a DevOps project where I set up and configured Jenkins to automate a simple pipeline. The pipeline executes a basic echo command to print "Devops project on Jenkins". This project demonstrates my understanding of CI/CD concepts, Jenkins configuration, and automation in a DevOps environment.
