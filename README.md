@@ -1,11 +1,11 @@
 # Jenkins-DevOps-Demo
-![image](https://github.com/user-attachments/assets/252c99f4-8c87-485b-a3bf-cf59bda3d171)
 
 
 
-Jenkins-DevOps-Demo 🚀
 
-Overview
+#Jenkins-DevOps-Demo 🚀
+
+#Overview
 
 This repository showcases a DevOps project where I set up and configured Jenkins to automate a simple pipeline. The pipeline executes a basic echo command to print "Devops project on Jenkins". This project demonstrates my understanding of CI/CD concepts, Jenkins configuration, and automation in a DevOps environment.
 
@@ -13,7 +13,7 @@ This repository showcases a DevOps project where I set up and configured Jenkins
 
 Project Setup
 
-Tools Used
+#Tools Used
 
 
 
@@ -43,7 +43,7 @@ Jenkins Configuration
 
 
 
-Installed Jenkins:
+#Installed Jenkins:
 
 
 
@@ -118,7 +118,7 @@ C:\Users\Devloper\.jenkins\workspace\1stMaven-Projeect>echo "Devops project on J
 C:\Users\Devloper\.jenkins\workspace\1stMaven-Projeect>exit 0 
 Finished: SUCCESS
 
-Screenshots
+![image](https://github.com/user-attachments/assets/252c99f4-8c87-485b-a3bf-cf59bda3d171)
 
 Jenkins Dashboard
 
@@ -130,7 +130,8 @@ Pipeline Configuration
 
 
 
-Screenshot of the pipeline configuration page where the echo command was added.
+![image](https://github.com/user-attachments/assets/04611765-6fde-4cde-8097-a0defee7b3e5)
+
 
 Pipeline Output
 
@@ -210,7 +211,7 @@ Install and verify: C:\Program Files\Java\jdk-17\bin\java -version.
 
 
 
-Install Jenkins:
+#Install Jenkins:
 
 
 
